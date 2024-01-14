@@ -1,0 +1,52 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(Æğ÷¿8´ÙáªĞ1
+L
+java:S3740"/Provide the parametrized type for this generic.(Æğ÷¿8´ÙáªĞ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(â¨‘ùÿÿÿÿ8´ÙáªĞ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(â¨‘ùÿÿÿÿ8´ÙáªĞ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ƒúâàÿÿÿÿÿ8´ÙáªĞ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ƒúâàÿÿÿÿÿ8´ÙáªĞ1
+Q
+java:S3740	"/Provide the parametrized type for this generic.(Á‚¶¹ûÿÿÿÿ8´ÙáªĞ1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ØŒ8µÙáªĞ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şºº©ÿÿÿÿÿ8µÙáªĞ1
+{
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÛì¸şÿÿÿÿ8µÙáªĞ1
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬å8µÙáªĞ1
+h
+java:S1854"FRemove this useless assignment to local variable "customizedCapacity".(ƒúâàÿÿÿÿÿ8ÁÙáªĞ1
+j
+java:S1854"HRemove this useless assignment to local variable "customizedLoadFactor".(â¨‘ùÿÿÿÿ8ÁÙáªĞ1
+[
+java:S1481"9Remove this unused "customizedLoadFactor" local variable.(â¨‘ùÿÿÿÿ8ÂÙáªĞ1
+
+java:S6485"mReplace this call to the constructor with the better suited static method HashSet.newHashSet(int numMappings)(ƒúâàÿÿÿÿÿ8ÂÙáªĞ1
+Y
+java:S1481"7Remove this unused "customizedCapacity" local variable.(ƒúâàÿÿÿÿÿ8ÂÙáªĞ1
+U
+java:S3878"8Remove this array creation and simply pass the elements.(Ş«Ãô8ÃÙáªĞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(—æÎĞúÿÿÿÿ8óıâªĞ1
+L	java:S106"+Replace this use of System.out by a logger.(‚ó•Øùÿÿÿÿ8ÄÙáªĞ1
+F	java:S106"+Replace this use of System.out by a logger.(ç‰
+8ÄÙáªĞ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÅÙáªĞ1
+L	java:S106"+Replace this use of System.out by a logger.(è ‘Âÿÿÿÿÿ8ÅÙáªĞ1
+G	java:S106"+Replace this use of System.out by a logger.(·Š·£8ÆÙáªĞ1
+U
+java:S3878"8Remove this array creation and simply pass the elements.(ñù½Î8ÄÙáªĞ1
+L	java:S106"+Replace this use of System.out by a logger.(À™êéúÿÿÿÿ8ÆÙáªĞ1
+G	java:S106 "+Replace this use of System.out by a logger.(‡’Ïî8ÆÙáªĞ1
+G	java:S106%"+Replace this use of System.out by a logger.(Øó©›8ÆÙáªĞ1
+G	java:S106&"+Replace this use of System.out by a logger.(ü ÁÎ8ÆÙáªĞ1
+L	java:S106+"+Replace this use of System.out by a logger.(÷­´øÿÿÿÿ8ÇÙáªĞ1
+L	java:S106,"+Replace this use of System.out by a logger.(ô’é¾ùÿÿÿÿ8õïãªĞ1
+L	java:S106-"+Replace this use of System.out by a logger.(éôöÌûÿÿÿÿ8ú°êªĞ1
+G	java:S1062"+Replace this use of System.out by a logger.(ª±Æ¢8İëªĞ1

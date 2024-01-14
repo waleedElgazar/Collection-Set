@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÑ¯úÿÿÿÿ8¦†»ÑÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ŠçÀ…üÿÿÿÿ8»†»ÑÏ1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8»†»ÑÏ1
+G	java:S106"+Replace this use of System.out by a logger.(³çÏû8½†»ÑÏ1
+L	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8½†»ÑÏ1
+L	java:S106!"+Replace this use of System.out by a logger.(¶©åïùÿÿÿÿ8¾†»ÑÏ1
+L	java:S106$"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8Ø¼ÑÏ1
+M
+java:S1905."+Remove this unnecessary cast to "Iterator".(Şººªøÿÿÿÿ8À†»ÑÏ1
