@@ -9,11 +9,15 @@ public class SetClass {
         HashSet<Integer> a = new HashSet(defaultCapacity); //initialize the hashset with the elements from the passed collection
 
         a.addAll(Arrays.asList(new Integer[]{11, 3, 21, 4, 8, 9, 0}));
+        a.add(55);
 //        System.out.println(a);
         Iterator<Integer> iterator = a.iterator();
         System.out.println("Printing A hashSet");
         while (iterator.hasNext()){
             System.out.print(iterator.next() + " ");
+            if (iterator.next() == 55){
+                iterator.remove();
+            }
         }
         System.out.println();
         HashSet<Integer> b = new HashSet<Integer>();
@@ -49,6 +53,9 @@ public class SetClass {
         Spliterator<Integer> spliterator = difference.spliterator();
         spliterator.forEachRemaining(System.out::println);
 
+//        for (int i = 0; i < b.size(); i++) {
+//            b.g
+//        }
 
         //what will happen in the below code?
 //        b.add(12,2)
